@@ -27,6 +27,7 @@
 
 ### Scan
 
+- (impv) [\#2763](https://github.com/bandprotocol/bandchain/pull/2763) Implemented the data msg cat on tx index page
 - (impv) [\#2748](https://github.com/bandprotocol/bandchain/pull/2748) Implemented the token msg category on txindex page (both success and fail msgs)
 - (impv) [\#2747](https://github.com/bandprotocol/bandchain/pull/2747) Patch for fast sync and new GuanYu DB
 - (impv) [\#2740](https://github.com/bandprotocol/bandchain/pull/2740) Add UI test for all pages
